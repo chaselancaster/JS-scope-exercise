@@ -20,6 +20,8 @@ function q22() {
   alert(a);
 }
 
+// Answer: 5
+
 //#3
 function q3() {
   window.a = "hello";

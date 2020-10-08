@@ -40,6 +40,8 @@ function q4() {
   alert(a);
 }
 
+// Answer: "test"
+
 //#5
 var a = 2;
 if (true) {

@@ -49,3 +49,5 @@ if (true) {
   alert(a);
 }
 alert(a);
+
+// Answer: 5

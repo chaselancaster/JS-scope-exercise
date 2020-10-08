@@ -31,6 +31,8 @@ function q32() {
   alert(a);
 }
 
+// Answer: "hello"
+
 //#4
 var a = 1;
 function q4() {
